@@ -1,0 +1,18 @@
+{
+   "root": true,
+   "parserOptions": {
+      "parser": "babel-eslint"
+   },
+   "env":{
+    "browser":true,
+    "node":true
+   },
+   "extends": [
+      "eslint:recommended",
+      "plugin:vue/essential"
+    ],
+   "plugins": ["@vue"],
+   "rules": {
+      "no-console": "off"
+   }
+}

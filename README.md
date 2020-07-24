@@ -1,2 +1,24 @@
-# arcgis-Vue-cli3-router
-在Vue的基础框架上修改带有router的基础框架
+# vue-cli3
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,0 +1,15 @@
+@import "~arcgis-js-api/themes/light/main.css";
+
+html,
+body ,#app ,#Home, #mapViewDiv{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+#Home > div,#About > div >div{
+  height: 100%;
+}
+#About > div{
+  height: 400px;
+}
